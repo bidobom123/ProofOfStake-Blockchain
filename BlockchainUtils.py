@@ -1,7 +1,6 @@
 from crypto.Hash import SHA256
 import json
 
-
 class BlockchainUtils():
 
     @staticmethod
